@@ -12,7 +12,7 @@
   </div>
  <br>
   
-  ### Paulo Ferr is Learning Computer Graphics Programming and 3D Modelling
+  ### Ghost Craft is Learning Computer Graphics Programming and 3D Modelling
 ------------------------------------------------------------------------------------------------------------------
   <!---
 - 👋 Hi, I’m @pauloferrdraw
