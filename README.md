@@ -12,7 +12,7 @@
   </div>
  <br>
   
-  ### Ghost Craft is Learning Computer Graphics Programming and 3D Modelling
+  ### 👻🧙‍♂️ FantasMago is Learning Computer Graphics Programming and 3D Modelling
 ------------------------------------------------------------------------------------------------------------------
   <!---
 - 👋 Hi, I’m @pauloferrdraw
