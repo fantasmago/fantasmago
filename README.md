@@ -3,10 +3,11 @@
 <br>
 
 <!-- Languages icons -->
+<div style="display: inline_block"><br>
   <img align="center" alt="java-icon" height="30" width="30" src="java-icon.png">
   <img align="center" alt="python-icon" height="30" width="40"  
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  </div>
+ </div>
  <br>
   
   ### 👻🧙‍♂️ FantasMago is Learning Computer Graphics Programming and 3D Modelling
