@@ -10,7 +10,7 @@
  </div>
  <br>
   
-  ### 👻🧙‍♂️ FantasMago is Learning Computer Graphics Programming and 3D Modelling
+  ### 🔫 Fetus Gun is Learning Computer Graphics Programming and 3D Modelling
 ------------------------------------------------------------------------------------------------------------------
   <!---
 - 👋 Hi, I’m @pauloferrdraw
