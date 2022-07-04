@@ -1,6 +1,8 @@
-![header!](https://github.com/ghostcraftt/ghostcraftt/blob/main/3DGun-blender.gif)
-----------------------------------------------------------------------------------------------------------------
-<br>
+<div align="center">
+  <img src="fetus-intro-thumb.png" alt="fetus-logo" width="800" height="340"/>
+</div>
+
+<br />
 
 <!-- Languages icons -->
 <div style="display: inline_block"><br>
@@ -12,6 +14,16 @@
   
   ### 🔫 Fetus Gun is Learning Computer Graphics Programming and 3D Modelling
 ------------------------------------------------------------------------------------------------------------------
+
+<div align="center">
+  <img src="3DGun-blender.gif" alt="gun-blender" width="457" height="257"/>
+</div>
+<br>
+
+2022 - [@fetus_gun](https://twitter.com/fetus_gun)
+
+  
+  
   <!---
 - 👋 Hi, I’m @pauloferrdraw
 - 👀 I’m interested in ...
